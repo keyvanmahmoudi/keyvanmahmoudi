@@ -1,6 +1,6 @@
 ### Hi, I'm Keyvan Mahmoudi 👋
 
-I'm a PhD student in Natural Language Processing at the **University of Tehran**. My research focuses on **task-oriented dialogue systems** and **Persian NLP**: building datasets, models and evaluation methods for conversational agents that help users complete real tasks, such as finding and buying products.
+I'm a PhD student in Computer Enginnering at the **University of Tehran**. My research focuses on **task-oriented dialogue systems** and **Persian NLP**: building datasets, models and evaluation methods for conversational agents that help users complete real tasks, such as finding and buying products.
 
 **Research interests:** task-oriented dialogue · natural language understanding · large language models · retrieval-augmented generation · Persian language resources
 
